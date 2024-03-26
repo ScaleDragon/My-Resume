@@ -7,4 +7,4 @@
 
 ### Photo
 
-![изображение](C:\Users\dwek1\Desktop\My resume\photo\captain-yami-sukehiro-black-clover-anime-television-series-wallpaper-1080x1920_1657.jpg)
+![изображение](photo\captain-yami-sukehiro-black-clover-anime-television-series-wallpaper-1080x1920_1657.jpg)
