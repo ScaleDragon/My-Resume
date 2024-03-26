@@ -1,25 +1,9 @@
+## My Info 
 
-<span style="color:;">
-
-# My Info 
-
-<span style="color:orange;">
-
-> ### Name: Vyacheslav
-
-<span style="color:yellow;">
-
->> ### Surname: Lukin
-
-<span style="color:green;">
-
->>> ### Years: 35
-
-<span style="color:pink;">
-
->>>> ## Profession: Chef
-
-<span style="color:tomato;">
+> Name: Vyacheslav
+>> Surname: Lukin
+>>> Years: 35
+>>>>Profession: Chef
 
 ### Photo
 
